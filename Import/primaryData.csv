@@ -1,0 +1,9 @@
+﻿processName,Type,FlowType , value,unit,percentage
+Cutting,Input,Material;Agriculture;Leather,100,kg,0.4
+Cutting,Input,Energy;Electricity,10,kWh,0.12
+Cutting,Output,Waste;EVA,5,kg,0
+Cutting,Output,Material;Recycled; EVA,5,kg,0.2
+Assembling,Output,Material;EVA,5,kg,0.2
+Cutting,Output,Transport;Air,9781,KM,0
+stitching,Input,material,0.8,KG,0.2
+package,Output,WASTE;tape,0.2,KG,0
